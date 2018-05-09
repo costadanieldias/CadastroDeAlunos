@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alunos</string>
+    <string name="novo_aluno">Aluno</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="title_activity_formulario">FormularioActivity</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereco</string>
+    <string name="telefone">Telefone</string>
+    <string name="site">Site</string>
+    <string name="title_activity_provas">Provas</string>
+    <string name="title_activity_test_maps">Map</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mostra_alunos">Mapa</string>
+
+</resources>

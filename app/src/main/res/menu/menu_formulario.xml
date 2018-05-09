@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.caelum.cadastro.activity.FormularioActivity">
+
+    <!--<item android:id="@+id/action_settings"-->
+          <!--android:title="@string/action_settings"-->
+          <!--android:orderInCategory="100"-->
+          <!--app:showAsAction="never" />-->
+
+    <item android:id="@+id/menu_salvar"
+          android:title="@string/salvar"
+          android:icon="@drawable/ic_confirmar"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/voltar"
+          android:title="@string/voltar"
+          android:icon="@drawable/abc_ic_clear_mtrl_alpha"
+          app:showAsAction="ifRoom" />
+
+</menu>
